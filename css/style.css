@@ -1,1 +1,67 @@
+h1, h4, h5, a{ 
+    font-family: 'Fredoka One', sans-serif; 
+    text-align: center;
+    color: black;
+  
+}
+h1{
+    font-size: 3.2em;
+    padding: 110px;
+    font-family: Poor Richard, sans-serif;
+}
+h5{
+    margin-top: 20px;
+}
+header{
+background: linear-gradient(180deg, rgb(26, 136, 170), rgb(211, 205, 205),  rgb(26, 136, 170) );
+height: 450px;
+}
+a{
+    font-size: 1.2em;
+}
+p{
+    text-align: center;
+    margin-top: 20px;
+    color: black;
+    
+}
+u{
+    padding: 5px;
+    line-height: 10px;
+}
+.navbar-nav{
+    text-align: center;
+    color: black;
+}
+.main{
+    background-color: yellow;
+    max-width:100%;
+    padding: 50px;
+}
+.container{
+    padding: 50px;
+    width: 100%;
+}
+.row{
+    text-align: center;
+}
+img{
+    margin-top: 60px;
+}
 
+footer{
+    background-color: rgba(13, 13, 121, 0.808);
+    padding: 40px;
+}
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
