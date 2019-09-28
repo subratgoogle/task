@@ -6,7 +6,7 @@ h1, h4, h5, a{
 }
 h1{
     font-size: 3.1em;
-    padding: 110px;
+    padding: 120px;
     font-family: Poor Richard, sans-serif;
 }
 h5{
@@ -17,7 +17,7 @@ background: linear-gradient(180deg, rgb(26, 136, 170), rgb(211, 205, 205),  rgb(
 height: 450px;
 }
 a{
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 p{
     text-align: center;
